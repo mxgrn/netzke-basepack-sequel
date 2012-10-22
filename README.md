@@ -10,7 +10,7 @@ Implements [Netzke::Basepack::DataAdapters::AbstractAdapter](https://github.com/
 
 Add this line to your application's Gemfile after 'netzke-basepack':
 
-    gem 'netzke-basepack-dm'
+    gem 'netzke-basepack-sequel', git: "git://github.com/nomadcoder/netzke-basepack-sequel"
 
 And then execute:
 
